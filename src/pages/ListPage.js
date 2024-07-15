@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 export const API_SERVER_HOST = 'http://localhost:8080'
 
-const kyungnamsijang = 'https://apis.data.go.kr/6480000/gyeongnammarket/gyeongnammarketList?ServiceKey=&pageNo=1&numOfRows=10&resultType=json'
+const kyungnamsijang = 'https://apis.data.go.kr/6480000/gyeongnammarket/gyeongnammarketList?ServiceKey=dXRGEuG%2B5ZJyJRI7IP9uru3hVSa72PAlsCEhyqJrdNh4aB8eHCzH2oRWdA99TT09K6%2BEXwFjQQ6EOqKTSNwNJg%3D%3D&pageNo=1&numOfRows=10&resultType=json'
 
 const prefix = `${API_SERVER_HOST}/api`
 
