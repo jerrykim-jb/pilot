@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#form-builder, #form-preview {
+    margin-top: 20px;
+}
+
+#form-builder button {
+    margin-right: 10px;
+}
+
+#form-preview {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+}
